@@ -3,7 +3,21 @@ entries:
   epi:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.245661261Z"
+    created: "2024-12-12T11:53:41.100884186Z"
+    description: A Helm chart for Lydiarx lydiarx-epi application
+    digest: 71f1c87babdf2e2b88be91539aa756bbbfcb99b2b677c34e9bfe7f47c797a198
+    icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
+    maintainers:
+    - name: skutner
+      url: https://github.com/skutner
+    name: epi
+    type: application
+    urls:
+    - https://lydiarx.github.io/helm-charts-releases/charts/epi-0.1.23.tgz
+    version: 0.1.23
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-12-12T11:53:41.099305556Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 79f687d9d4979241a999f970ca842d4b7536173d1e4d49ea18b09af5d78486ff
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -17,7 +31,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.244164179Z"
+    created: "2024-12-12T11:53:41.096324704Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: d45ae39942f054e1b481fa3d7a08cd2a4fe836ea057237ebf952c6e79322277f
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -31,7 +45,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.242650114Z"
+    created: "2024-12-12T11:53:41.094823118Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 6b776a157f5d79376c14628b5c24fc26f70c9d8d61501c28a969d95f9433d8b1
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -45,7 +59,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.237960438Z"
+    created: "2024-12-12T11:53:41.091773711Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 561ccce424670be7a4726c30e55c7bbc5e96b02799694feeae1027f181479e25
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -59,7 +73,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.236427649Z"
+    created: "2024-12-12T11:53:41.090250004Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: c9bbd1018dc7775a83212cba208b1737cf2cd3310c7d9e958882377b2a0e134a
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -73,7 +87,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.234924836Z"
+    created: "2024-12-12T11:53:41.087267364Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 5cc31a12778fac99b3ee1c8a25e0a1611d0cbb12bc27a5ec69b9739c291606c8
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -87,7 +101,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.233368273Z"
+    created: "2024-12-12T11:53:41.085703032Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 0cd40985e3784e6a4ef519fd65f033af74ef072e87fed0b1e7e5d11cb2f33916
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -101,7 +115,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.23183385Z"
+    created: "2024-12-12T11:53:41.084132618Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 12daf90dad6daff07ad63c701a0dda5782f5cd12b802a3683040cef92a14bbc6
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -115,7 +129,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.228555143Z"
+    created: "2024-12-12T11:53:41.081866871Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 6306a1a422df1b0e76785e8b2e6554dbc37c348045607255ef9d95b0d94fabea
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -129,7 +143,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.227018927Z"
+    created: "2024-12-12T11:53:41.080274186Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: c3b4c68b7a9383acd9ce7ba51079e8f25eb7c8719cd7ecb2ec335facf072ba5f
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -143,7 +157,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.225441624Z"
+    created: "2024-12-12T11:53:41.077730195Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 502b72573e217e570d97c916a494b0165f24f4f6164f59023cb4187eb11d0082
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -157,7 +171,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.223859794Z"
+    created: "2024-12-12T11:53:41.075627444Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: f5ebaea835f0a394d32212f512a31d4a3647625334a7c5aceacc6ce6e12db341
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -171,7 +185,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.22232467Z"
+    created: "2024-12-12T11:53:41.07409999Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 8a3eceb9da5d27de545b6b0278ec7881437568bac60c5e90893c9162ac0447ac
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -185,7 +199,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.259048643Z"
+    created: "2024-12-12T11:53:41.114190554Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 5777096889d2fc24c1ead0c2ba605c895113a78705da69c3e2da5b1dccd7416d
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -199,7 +213,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.256197286Z"
+    created: "2024-12-12T11:53:41.112648173Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 6d2e2ba5812203ea1861250b9e2e5403701705d29c7411a28e913b069b7c504f
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -213,7 +227,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.254705694Z"
+    created: "2024-12-12T11:53:41.11115378Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 4bbbb83cab5be9a1d2d83d24f19ab6668559ab411eb9b59d5a1d1c7ffde3f7e4
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -227,7 +241,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.253161994Z"
+    created: "2024-12-12T11:53:41.109466688Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 621bc1c28fe866cf6acb429ae22fb2b7b40362873ba089ab7231db27c2f082f7
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -241,7 +255,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.251650244Z"
+    created: "2024-12-12T11:53:41.106559769Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 781e920d084313f6db4dbcd336a5a39eface6e21f3df614dd8645cb56020d681
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -255,7 +269,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.250090034Z"
+    created: "2024-12-12T11:53:41.103984067Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: b807049f7977998d810d793b2c612be6577b029ce7d0f71d9bd7c0dbd91d18b7
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -269,7 +283,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.247248192Z"
+    created: "2024-12-12T11:53:41.102467584Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: a6dd7b083d63e59417bd3ed6bc0de177c894ff52ad903ddfefb6d4affc91774e
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -283,7 +297,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.241038397Z"
+    created: "2024-12-12T11:53:41.093279605Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: e670c528bb2cae31d12d605492d60d29649560974302385b9e6b9adc80e07f6f
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -297,7 +311,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-12T10:32:49.21919543Z"
+    created: "2024-12-12T11:53:41.072321877Z"
     description: A Helm chart for Lydiarx lydiarx-epi application
     digest: 42b7b6641f69774abdebed20d393860aea5d0f7a048efd3438430f2687711e5a
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -309,4 +323,4 @@ entries:
     urls:
     - https://lydiarx.github.io/helm-charts-releases/charts/epi-0.1.1.tgz
     version: 0.1.1
-generated: "2024-12-12T10:32:49.217262762Z"
+generated: "2024-12-12T11:53:41.070546821Z"
